@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Yoshi Matsuzaki (indigo13love)
 
 [Twitter](https://twitter.com/indigo13love)
