@@ -13,3 +13,5 @@ Yoshi Matsuzaki (indigo13love)
 [Instagram](https://www.instagram.com/indigo13love/)
 
 [GitHub](https://github.com/indigo13love)
+
+[Email](mailto:hello@indigo13.love)
